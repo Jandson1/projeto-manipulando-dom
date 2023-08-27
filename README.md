@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvoolvido baseado nas aulas de de manipulação de DOM com JavaScript na Web.
+O projeto foi desenvoolvido baseado nas aulas de manipulação de DOM com JavaScript na Web.
 
 Todos os nós no Modelo de Documento por Objetos podem ser acessados via JavaScript, podendo ser deletados, criados ou modificados através de comandos como: 
 
